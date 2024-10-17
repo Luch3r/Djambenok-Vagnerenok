@@ -1,0 +1,10 @@
+ol {
+    margin-bottom: 14px;
+    margin-left: 3px; /* Отступ слева */
+    padding: 3px; /* Внутренний отступ */
+    border: 1px solid #000000;
+    background-color: #7984eb;
+    font-family: 'Arial', sans-serif;
+    font-style: italic;
+    text-decoration: wavy;
+}
